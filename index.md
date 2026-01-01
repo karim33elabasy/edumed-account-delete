@@ -5,7 +5,7 @@ Edu Med uses Firebase Authentication to manage user accounts.
 ## How to request account deletion
 To request deletion of your Edu Med account and associated data, please contact us via WhatsApp:
 
-👉 https://wa.me/201234567890
+👉 https://wa.me/201557040302
 
 When contacting us, please include:
 - The email address or phone number used to sign in to Edu Med
